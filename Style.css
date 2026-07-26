@@ -644,7 +644,7 @@ footer {
         padding: 20px 0 40px;
     }
     .Cards-container {
-        grid-template-columns: 400px;
+        grid-template-columns: 350px;
         grid-template-rows: none;
         width: 90%;
         margin-top: 30px;
